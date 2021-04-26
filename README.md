@@ -5,14 +5,16 @@ RobustStabilization is a Python package that determines robust stabilizing contr
 <img src="./Fig_1.png" alt="fig_1" />
 <p align="center">
     <b>Fig. 1. The experimental results on robust stabilization of complex random BNs.</b>
+    *Please refer to the upcoming paper for more details.
 </p>
 
-<img src="./Fig_1.png" alt="fig_1" />
+<img src="./Fig_2.png" alt="fig_2" />
 <p align="center">
     <b>The experimental results on robust stabilization of complex random BNs.</b>
+    *Please refer to the upcoming paper for more details.
 </p>
 
-*Please refer to the upcoming paper for more details.
+
 
 ## Installation
 You can simply download RobustStabilization from this git repository, while setup.py is not provided. RobustStabilization is executed on any operating system (Windows, Mac OS, Linux, etc), but Python 3.5 or higher versions must be installed to run the program. The following package is used while running the RobustStabilization.
