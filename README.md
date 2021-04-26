@@ -7,9 +7,10 @@ RobustStabilization is a Python package that determines robust stabilizing contr
     <b>Fig. 1. The experimental results on robust stabilization of complex random BNs.</b>
 </p>
 
-<img src="./Fig_2.png" alt="fig_2" />
-The experimental results on robust stabilization of complex random
-BNs.
+<img src="./Fig_1.png" alt="fig_1" />
+<p align="center">
+    <b>The experimental results on robust stabilization of complex random BNs.</b>
+</p>
 
 *Please refer to the upcoming paper for more details.
 
