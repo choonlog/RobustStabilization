@@ -5,7 +5,7 @@ You can simply download RobustStabilization from this git repository, while setu
 1. FVS FINDER: https://github.com/needleworm/fvs
 2. BooleanSim: https://github.com/jehoons/BooleanSim
 ## Input
-'RobustStabilization/main.py' allows you to set the name of a file containing network structure information, desired attacker, and mutation profile. For more information, please refer to the comments at main.py.
+'RobustStabilization/main.py' allows you to set the name of a file containing network structure information, desired attacker, and mutation profile. For more information, please refer to the comments in main.py.
 
 *A file containing network structure information should be saved in the'RobustStabilization/networks/' directory, and if there are input nodes, the Boolean expression of the nodes should be marked as follows.
 ```
