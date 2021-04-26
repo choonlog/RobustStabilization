@@ -1,0 +1,2 @@
+['GF_', 'TWIST1', 'miR200', 'CTNNB1', 'NICD', 'p53', 'miR34', 'miR203']
+['GF_', 'miR200', 'SNAI1', 'CTNNB1', 'NICD', 'p53', 'miR34', 'miR203']

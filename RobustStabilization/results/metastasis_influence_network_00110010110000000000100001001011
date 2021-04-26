@@ -1,0 +1,3 @@
+Control inputs, Additional control inputs
+('miR200', 'SNAI1', 'p53'), ('CDH1', 'AKT2', 'CDH2', 'p63', 'p73')
+('miR200', 'SNAI1', 'p73'), ('CDH1', 'CDH2', 'p63', 'AKT2')
