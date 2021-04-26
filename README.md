@@ -4,13 +4,22 @@ RobustStabilization is a Python package that determines robust stabilizing contr
 ## Results of Comparative study
 <img src="./Fig_1.png" alt="fig_1" />
 <p align="center">
-    <b>Fig. 1. The experimental results on robust stabilization of complex random BNs.</b><br />
+    <b>Fig. 1. The experimental results on robust stabilization of complex random
+BNs. (a) Average stabilization score for 4,000 random BNs, each ensemble of
+1,000 BNs having respectively 20, 30, 40, and 50 nodes. (b) Average number
+of elements in the derived control input sets. (c) Average computational time
+required to derive the solutions for each ensemble of random BNs. The error
+bars in (a)–(c) denote the 95% confidence intervals of the average score,
+number of elements, and computation time, respectively.</b><br />
     *Please refer to the upcoming paper for more details.
 </p>
 
 <img src="./Fig_2.png" alt="fig_2" />
 <p align="center">
-    <b>The experimental results on robust stabilization of complex random BNs.</b><br />
+    <b>Fig. 2. Average stabilization score for each ensemble of 1,000 BNs having
+respectively 20, 30, 40, and 50 nodes. Instead of the original FVS, we apply
+all the possible subsets of the original FVS that have the same size as the
+solution of the proposed algorithm, and take their average scores.</b><br />
     *Please refer to the upcoming paper for more details.
 </p>
 
