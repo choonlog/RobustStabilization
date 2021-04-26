@@ -4,6 +4,7 @@ RobustStabilization is a Python package that determines robust stabilizing contr
 You can simply download RobustStabilization from this git repository, while setup.py is not provided. RobustStabilization is executed on any operating system (Windows, Mac OS, Linux, etc), but Python 3.5 or higher versions must be installed to run the program. The following packages are used while running the RobustStabilization.
 1. FVS FINDER: https://github.com/needleworm/fvs
 2. BooleanSim: https://github.com/jehoons/BooleanSim
+*RobustStabilization and RobustStabilization_RBN are independent program codes
 ## Input
 
 ## Output
