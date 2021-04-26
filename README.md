@@ -8,6 +8,7 @@ You can simply download RobustStabilization from this git repository, while setu
 *If you want to do numerical experiences for a random Boolean network, you can download and run RobustStabilization_RBN. RobustStabilization and RobustStabilization_RBN are independent program codes
 ## Input
 'RobustStabilization/main.py' allows you to set the name of a file containing network structure information, desired attacker, and mutation profile. For more information, please refer to the comments at main.py.
+
 *A file containing network structure information should be saved in the'RobustStabilization/networks/' directory, and if there is an input node, the Boolean expression of the node should be marked as'input_node = _INPUT_'.
 ## Output
 Control inputs and addtional control inputs are saved in the form of a .txt file in the'RobustStabilization/results/' directory.
