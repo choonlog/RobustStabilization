@@ -5,7 +5,7 @@ You can simply download RobustStabilization from this git repository, while setu
 1. FVS FINDER: https://github.com/needleworm/fvs
 2. BooleanSim: https://github.com/jehoons/BooleanSim
 
-*RobustStabilization and RobustStabilization_RBN are independent program codes
+*If you want to do numerical experiences for a random Boolean network, you can download and run RobustStabilization_RBN. RobustStabilization and RobustStabilization_RBN are independent program codes
 ## Input
 
 ## Output
