@@ -11,7 +11,7 @@ You can simply download RobustStabilization from this git repository, while setu
 
 *A file containing network structure information should be saved in the'RobustStabilization/networks/' directory, and if there is an input node, the Boolean expression of the node should be marked as follows.
 ```
-input_node = _INPUT_'
+input_node = _INPUT_
 ```
 ## Output
 Control inputs and addtional control inputs are saved in the form of a .txt file in the'RobustStabilization/results/' directory.
