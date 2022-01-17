@@ -1,0 +1,9 @@
+After identifying the mutations frequently occurring in human bladder cancers through literature research and two types of mutated networks were created as follows.
+
+Mutated network 1: {AKT: On, ERK: On}
+Mutated network 2: {FRS2: On, p53: Off}
+
+AKT(on): AKT has been reported to play a role as an oncogene in many cancers. Although the rate is not high, it is confirmed that the mutation occurs in bladder cancers (PMID: 19802009).
+ERK(on): It was confirmed that it was overexpressed in UM-UC-5, a bladder carcinoma cell line (PMID: 25482142).
+FRS2(on): When bladder cancer whole-genome sequencing was performed, duplication of FRS2 was confirmed (PMID: 30755618).
+p53(off): p53, referred to as “guardian of the genome”, is the first human tumor suppressor gene identified. It is already well known as a driver mutation in bladder cancers (PMID: 31871844)
